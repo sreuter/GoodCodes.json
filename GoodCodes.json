@@ -142,19 +142,19 @@
     "type": "special"
   },
   "(PC10)": {
-    "system": "NES/FC",
+    "system": "NES FC",
     "title": "PlayChoice 10",
     "type": "special",
     "description": "The PlayChoice 10 was an arcade unit which played exact copies of NES games in an arcade cabinet. These machines had a choice of 10 games to choose from and ran for aboutu 3 minutes on 25 cents."
   },
   "(VS)": {
-    "system": "NES/FC",
+    "system": "NES FC",
     "title": "Versus",
     "type": "special",
     "description": "The Versus system ran on similar hardware to the PC10 machines, but simply allowed you to play against each other."
   },
   "(hFFE)": {
-    "system": "NES/FC",
+    "system": "NES FC",
     "title": "FFE Copier fmt",
     "type": "special"
   },
@@ -185,7 +185,7 @@
     "type": "country"
   },
   "(F)": {
-    "title": "France / World (Genesis)",
+    "title": "France",
     "type": "country"
   },
   "(FC)": {
