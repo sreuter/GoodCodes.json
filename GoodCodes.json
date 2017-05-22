@@ -172,7 +172,7 @@
     "type": "country"
   },
   "(B)": {
-    "title": "non USA (Genesis)",
+    "title": "Brazil",
     "type": "country",
     "description": "This country code indicates that the cart will run on any non US machines."
   },
@@ -220,6 +220,10 @@
     "title": "Japan",
     "type": "country"
   },
+  "(JU)": {
+    "title": "Japan & USA",
+    "type": "country"
+  },
   "(K)": {
     "title": "Korea",
     "type": "country"
@@ -242,6 +246,10 @@
   },
   "(U)": {
     "title": "USA",
+    "type": "country"
+  },
+  "(UE)": {
+    "title": "USA & Europe",
     "type": "country"
   },
   "(UK)": {
