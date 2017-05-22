@@ -1,6 +1,6 @@
 {
   "name": "goodcodes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JSON based version of GoodCodes.txt",
   "main": "GoodCodes.json",
   "scripts": {
