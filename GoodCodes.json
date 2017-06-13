@@ -171,13 +171,25 @@
     "title": "Australia",
     "type": "country"
   },
+  "(As)": {
+    "title": "Asia",
+    "type": "country"
+  },
   "(B)": {
     "title": "Brazil",
     "type": "country",
     "description": "This country code indicates that the cart will run on any non US machines."
   },
   "(C)": {
+    "title": "Canada",
+    "type": "country"
+  },
+  "(Ch)": {
     "title": "China",
+    "type": "country"
+  },
+  "(D)": {
+    "title": "Netherlands",
     "type": "country"
   },
   "(E)": {
@@ -209,11 +221,15 @@
     "type": "country"
   },
   "(H)": {
-    "title": "Holland",
+    "title": "Netherlands",
     "type": "country"
   },
   "(4)": {
     "title": "USA & BrazilNTSC",
+    "type": "country"
+  },
+  "(I)": {
+    "title": "Italy",
     "type": "country"
   },
   "(J)": {
@@ -260,8 +276,8 @@
     "title": "Unknown Country",
     "type": "country"
   },
-  "(I)": {
-    "title": "Italy",
+  "(W)": {
+    "title": "World",
     "type": "country"
   }
 }
